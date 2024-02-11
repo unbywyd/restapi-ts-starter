@@ -20,3 +20,18 @@
 [2024-02-11T12:10:57.946Z] [32minfo[39m: ::1 - - [11/Feb/2024:12:10:57 +0000] "GET /api/auth/me HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0"
 [2024-02-11T12:15:00.672Z] [32minfo[39m: 🚀 Server started at http://localhost:3000
 [2024-02-11T12:15:09.094Z] [32minfo[39m: 🚀 Server started at http://localhost:3000
+[2024-02-11T12:16:47.540Z] [32minfo[39m: 🚀 Server started at http://localhost:3000
+[2024-02-11T12:16:57.492Z] [32minfo[39m: ::1 - - [11/Feb/2024:12:16:57 +0000] "POST /api/auth/verify HTTP/1.1" 200 205 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0"
+[2024-02-11T12:21:32.536Z] [32minfo[39m: 🚀 Server started at http://localhost:3000
+[2024-02-11T12:22:26.075Z] [32minfo[39m: ::1 - - [11/Feb/2024:12:22:26 +0000] "GET /api/auth/me HTTP/1.1" 403 44 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0"
+[2024-02-11T12:22:29.573Z] [32minfo[39m: ::1 - - [11/Feb/2024:12:22:29 +0000] "POST /api/auth/verify HTTP/1.1" 200 205 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0"
+[2024-02-11T12:23:24.436Z] [32minfo[39m: 🚀 Server started at http://localhost:3000
+[2024-02-11T12:27:43.945Z] [32minfo[39m: 🚀 Server started at http://localhost:3000
+[2024-02-11T12:27:43.947Z] [32minfo[39m: 🚨️ Environment: development
+[2024-02-11T12:27:43.947Z] [32minfo[39m: Documentation is available at http://localhost:3000/docs
+[2024-02-11T12:27:46.826Z] [32minfo[39m: 🚀 Server started at http://localhost:3000
+[2024-02-11T12:27:46.827Z] [32minfo[39m: 🚨️ Environment: development
+[2024-02-11T12:27:46.828Z] [32minfo[39m: Documentation is available at http://localhost:3000/docs
+[2024-02-11T12:27:56.493Z] [32minfo[39m: 🚀 Server started at http://localhost:3000
+[2024-02-11T12:27:56.495Z] [32minfo[39m: 🚨️ Environment: development
+[2024-02-11T12:27:56.495Z] [32minfo[39m: Documentation is available at http://localhost:3000/docs

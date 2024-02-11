@@ -167,6 +167,10 @@ export class App {
 
       logger.info(`🚀 Server started at http://localhost:${this.port}`);
 
+      logger.info(`🚨️ Environment: ${process.env.NODE_ENV}`);
+
+      logger.info('Documentation is available at http://localhost:3000/docs')
+
       io.use(async (socket: SocketAuth, next: any) => {
         addAppSocketEmitter(socket);
         const token = socket.handshake.query.authToken as string;
