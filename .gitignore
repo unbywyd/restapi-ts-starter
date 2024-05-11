@@ -5,3 +5,4 @@ temp
 src/schema.gql
 .vscode
 .idea
+logs/*
